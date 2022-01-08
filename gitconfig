@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = isabelsfontes@gmail.com
+	name = Isabel Fonseca
